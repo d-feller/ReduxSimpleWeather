@@ -1,25 +1,9 @@
 # ReduxSimpleStarter
+![WeatherAppDemo](https://user-images.githubusercontent.com/14861458/44337912-88a1b880-a47c-11e8-8dcd-8cff0fb278e1.gif)
+
+This is a little app to get more familar with react and redux. It shows the weather forecast for your favorite cites.
+The data is coming from [openweathermap](https://openweathermap.org/).
+
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
